@@ -1,3 +1,3 @@
-File Desciption
+# Juice Blast
 
-Unity-Special-Folder.md         : File contains about directory structure and function.
+A casual mobile game on android platform that build using Unity3D
