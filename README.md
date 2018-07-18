@@ -1,3 +1,3 @@
 # Juice Blast
 
-A casual mobile game on android platform that build using Unity3D
+Mobile casual game on android platform about benefit of fruits. This game was built using Unity3D.
